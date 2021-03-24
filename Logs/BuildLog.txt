@@ -1,0 +1,1003 @@
+[             ] Require frontend run.  artifacts\tundra_housing-dotsruntimebuildconfiguration_8ny.dag.json does not exist yet
+[             ] Require frontend run.  tundra_buildprogram.dag no longer valid. directory contents changed: .
+[             ] Require frontend run.  buildprogram_buildprogram.dag no longer valid. directory contents changed: .
+[           0s] Freezing buildprogram_buildprogram.dag.json into .dag (.dag file didn't exist)
+*** buildprogrambuildprogram build success (0.06 seconds), 0 items updated, 7 evaluated
+[           0s] Freezing tundra_buildprogram.dag.json into .dag (.dag file didn't exist)
+*** buildprogram build success (0.19 seconds), 0 items updated, 13 evaluated
+[       6s] Executed build program. Created build graph with 638 nodes.
+[           0s] Freezing tundra_housing-dotsruntimebuildconfiguration_8ny.dag.json into .dag (.dag file didn't exist)
+[  0/509    0s] WriteResponseFile artifacts/rsp/6610484566020318365.rsp
+[  1/509    0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.Pdb.dll
+[  2/509    0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.Mdb.dll
+[  3/509    0s] WriteResponseFile artifacts/rsp/8631158493796270753.rsp
+[  4/509    0s] WriteResponseFile artifacts/rsp/17734634380417820594.rsp
+[  5/509    0s] WriteResponseFile artifacts/rsp/4587227421054690088.rsp
+[  6/509    0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.Pdb.dll
+[  7/509    0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.Rocks.dll
+[  8/509    0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.Rocks.dll
+[  9/509    0s] WriteResponseFile artifacts/rsp/14058168238907736844.rsp
+[ 10/509    0s] WriteResponseFile artifacts/rsp/6359171859682663422.rsp
+[ 11/509    0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.dll
+[ 12/509    0s] WriteResponseFile artifacts/rsp/14282566968998543452.rsp
+[ 13/509    0s] WriteResponseFile artifacts/rsp/13000560802980376492.rsp
+[ 14/509    0s] WriteResponseFile artifacts/rsp/11046728204610995522.rsp
+[ 15/509    0s] WriteResponseFile artifacts/rsp/1128731088617295004.rsp
+[ 16/509    0s] WriteResponseFile artifacts/rsp/3403168251166106990.rsp
+[ 17/509    0s] WriteResponseFile artifacts/rsp/7017142147661349564.rsp
+[ 18/509    0s] WriteResponseFile artifacts/rsp/1889349445792087084.rsp
+[ 19/509    0s] WriteResponseFile artifacts/rsp/14295799805575422508.rsp
+[ 20/509    0s] WriteResponseFile artifacts/rsp/3620774720061130886.rsp
+[ 21/509    0s] WriteResponseFile artifacts/rsp/7484664512407938074.rsp
+[ 22/509    0s] WriteResponseFile artifacts/rsp/14080612762815701388.rsp
+[ 23/509    0s] CopyTool artifacts/Unity.Entities.BuildUtils.dll/Release/Mono.Cecil.Mdb.dll
+[ 24/509    0s] WriteResponseFile artifacts/rsp/11427537951320990477.rsp
+[ 25/509    0s] CopyTool artifacts/TypeRegGen.exe/Release/Mono.Cecil.dll
+[ 26/509    0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.dll
+[ 27/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.Pdb.dll
+[ 28/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Collections.LowLevel.ILSupport.dll
+[ 29/509    0s] WriteResponseFile artifacts/rsp/4361672155700403044.rsp
+[ 30/509    0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.Pdb.dll
+[ 31/509    0s] WriteResponseFile artifacts/rsp/1139655341354081870.rsp
+[ 33/509    0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.Rocks.dll
+[ 34/509    0s] WriteResponseFile artifacts/rsp/15689131761304574188.rsp
+[ 35/509    0s] WriteResponseFile artifacts/rsp/11345185902982396690.rsp
+[ 36/509    0s] CopyTool artifacts/UnsafeUtilityPatcher/Mono.Cecil.Mdb.dll
+[ 37/509    0s] WriteResponseFile artifacts/rsp/7067947283294308668.rsp
+[ 38/509    0s] WriteResponseFile artifacts/rsp/17477862952480677990.rsp
+[ 39/509    0s] WriteResponseFile artifacts/rsp/15261211291764875506.rsp
+[ 40/509    0s] WriteResponseFile artifacts/rsp/5788719459639126338.rsp
+[ 41/509    0s] WriteResponseFile artifacts/rsp/14773509840588107304.rsp
+[ 42/509    0s] WriteResponseFile artifacts/rsp/3986678333676443186.rsp
+[ 43/509    0s] WriteText artifacts/emscripten-config-1.39.17.py
+[ 44/509    0s] WriteResponseFile artifacts/rsp/5844124562050269103.rsp
+[ 45/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.Mdb.dll
+[ 46/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.dll
+[ 47/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Mono.Cecil.Rocks.dll
+[ 48/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.0.entities
+[ 49/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.conversionlog
+[ 50/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/CommandLine.dll
+[ 51/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/catalog.bin
+[ 52/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/46b433b264c69cbd39f04ad2e5d12be8.entityheader
+[ 53/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/7e0a50bfcd686f449869cefc4f31f9cb.entityheader
+[ 54/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/7e0a50bfcd686f449869cefc4f31f9cb.0.entities
+[ 55/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/7e0a50bfcd686f449869cefc4f31f9cb.conversionlog
+[ 56/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/fab5eee5d394d59e728ec30405a89af6
+[ 57/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/ea11ffa5caeab2c4ad35eb7428163ec3
+[ 58/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.conversionlog
+[ 59/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.entityheader
+[ 60/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/973f77a8082117e0ca3bc5e07093bd4a
+[ 61/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/06b7ba19c4dcd0f6e677a0427c78fed8
+[ 62/509    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Data/SubScenes/b30be53447b11fe438dacae5d8e0ad7f.0.entities
+[ 63/509    0s] Download and unpack artifacts/Stevedore/7za-win-x64_0d1e/.StevedoreVersion (+1 other)
+[ 64/509    0s] Download and unpack artifacts/Stevedore/refassemblies-netstandard2_e589/.StevedoreVersion (+1 other)
+[ 65/509    0s] Download and unpack artifacts/Stevedore/emscripten-wasm-llvm-win_ef40/.StevedoreVersion (+1 other)
+[ 66/509    0s] Download and unpack artifacts/Stevedore/il2cpp_a51d/.StevedoreVersion (+1 other)
+[ 67/509    0s] Download and unpack artifacts/Stevedore/roslyn-csc-win64_7bcb/.StevedoreVersion (+1 other)
+[ 68/509    0s] Download and unpack artifacts/Stevedore-ExternalUnpack/artifacts_Stevedore_node-win-x64 (+1 other)
+[ 69/509    0s] Download and unpack artifacts/Stevedore/referenceassemblies_v471_a0c3/.StevedoreVersion (+1 other)
+[ 70/509    0s] Download and unpack artifacts/Stevedore-ExternalUnpack/artifacts_Stevedore_emscripten-win (+1 other)
+[ 74/509    0s] Download and unpack artifacts/Stevedore/winpython2-x64_740e/.StevedoreVersion (+1 other)
+[ 75/509    0s] Download and unpack artifacts/Stevedore/bgfx-source_04d5/.StevedoreVersion (+1 other)
+[ 76/509    0s] Download and unpack artifacts/Stevedore/nativejobs-all-public_99a9/.StevedoreVersion (+1 other)
+[ 77/509    0s] Download and unpack artifacts/Stevedore-ExternalUnpack/artifacts_Stevedore_http-server (+1 other)
+[ 78/509    0s] Download and unpack artifacts/Stevedore/nativejobs-WebGL-s_0707/.StevedoreVersion (+1 other)
+[ 79/509    0s] Download and unpack artifacts/Stevedore/nativejobs-WebGL-public_0d02/.StevedoreVersion (+1 other)
+[ 80/509    0s] Download and unpack artifacts/Stevedore/newtonsoft-json_d525/.StevedoreVersion (+1 other)
+[ 81/509    0s] Package Shell File Housing/housing-dotsruntimebuildconfiguration/WebTemplate/tiny_shell.html
+C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Stevedore\node-win-x64\node.exe,C:\Users\81804\Documents\Unity\HoloHousing\Library\PackageCache\com.unity.dots.runtime@0.31.0-preview.24\LowLevelSupport~\WebSupport\package_shell_file.js,--outputHtml,Housing/housing-dotsruntimebuildconfiguration/WebTemplate/tiny_shell.html,--inputShellHtml,C:/Users/81804/Documents/Unity/HoloHousing/Library/PackageCache/com.unity.dots.runtime@0.31.0-preview.24/LowLevelSupport~/WebSupport/WebTemplates/Default/tiny_shell.html,--inputShellJs,C:/Users/81804/Documents/Unity/HoloHousing/Library/PackageCache/com.unity.dots.runtime@0.31.0-preview.24/LowLevelSupport~/WebSupport/tiny_shell.js
+[ 82/509    1s] C_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+cache:INFO: generating system asset: is_vanilla.txt... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\is_vanilla.txt" for subsequent builds)
+cache:INFO:  - ok
+[ 83/509    0s] C_WebGL_wasm artifacts/lib_urlopener/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[ 84/509    1s] C_WebGL_wasm artifacts/lib_unity_tiny_input_web/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[ 85/509    2s] Csc artifacts/UnsafeUtility.dll/HostDotNet/UnsafeUtility.dll (+2 others)
+[ 86/509    1s] Csc artifacts/Unity.Entities.BuildUtils.dll/Release/Unity.Entities.BuildUtils.dll (+2 others)
+[ 87/509    2s] Csc artifacts/UnsafeUtility.dll/housing-dotsruntimebuildconfiguration/UnsafeUtility.dll (+2 others)
+[ 88/509    1s] Csc artifacts/UnsafeUtilityPatcher/UnsafeUtilityPatcher.exe (+2 others)
+[ 89/509    1s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/kxhr/image_gnf.o
+[ 90/509    1s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/codec.o
+[ 91/509    2s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/footprint.o
+[ 92/509    2s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/endpoint_codec.o
+[ 93/509    3s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/astc_file.o
+[ 94/509    3s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/kxhr/image.o
+[ 95/509    2s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/integer_sequence_codec.o
+[ 96/509    5s] C_WebGL_wasm artifacts/boehm-gc/housing-dotsruntimebuildconfiguration/hucc/gc.o
+[ 97/509    2s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/logical_astc_block.o
+[ 98/509    5s] C_WebGL_wasm artifacts/bx/housing-dotsruntimebuildconfiguration/981l/amalgamated.o
+[ 99/509    0s] C_WebGL_wasm artifacts/lib_unity_lowlevel/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[100/509    3s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/intermediate_astc_block.o
+[101/509    2s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/physical_astc_block.o
+[102/509    1s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/weight_infill.o
+[103/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[104/509    0s] C_WebGL_wasm artifacts/lib_unity_lowlevel/housing-dotsruntimebuildconfiguration/q4v5/guard.o
+[105/509    3s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/partition.o
+[106/509    3s] C_WebGL_wasm artifacts/bimg/housing-dotsruntimebuildconfiguration/yhk5/quantization.o
+[107/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_io/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[108/509    1s] C_WebGL_wasm artifacts/lib_unity_lowlevel/housing-dotsruntimebuildconfiguration/q4v5/allocators.o
+[109/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_io/housing-dotsruntimebuildconfiguration/z32u/AndroidLoader.o
+[110/509    0s] C_WebGL_wasm artifacts/lib_unity_zerojobs/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[111/509    2s] C_WebGL_wasm artifacts/lib_unity_lowlevel/housing-dotsruntimebuildconfiguration/q4v5/BurstInit.o
+[112/509    0s] C_WebGL_wasm artifacts/lib_unity_zerojobs/housing-dotsruntimebuildconfiguration/gva1/HTMLWrapper.o
+[113/509    2s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/housing-dotsruntimebuildconfiguration/o0rh/BurstNativeSupport.o
+[114/509    0s] C_WebGL_wasm artifacts/lib_unity_entities/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[115/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_core/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[116/509    1s] C_WebGL_wasm artifacts/lib_unity_zerojobs/housing-dotsruntimebuildconfiguration/gva1/ZeroJobsNativeSupport.o
+[117/509    1s] C_WebGL_wasm artifacts/lib_unity_zerojobs/housing-dotsruntimebuildconfiguration/gva1/PlayerConnectionNativeSupport.o
+[118/509    0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[119/509    0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/housing-dotsruntimebuildconfiguration/j48v/macOSWrapper.o
+[120/509    0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/housing-dotsruntimebuildconfiguration/fths/WindowsWrapper.o
+[121/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[122/509    3s] C_WebGL_wasm artifacts/lib_unity_tiny_io/housing-dotsruntimebuildconfiguration/g602/TinyIO.o
+[123/509    1s] C_WebGL_wasm artifacts/lib_unity_tiny_core/housing-dotsruntimebuildconfiguration/fark/Log.o
+[124/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/q98j/GCHandle.o
+[125/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/q98j/Marshal.o
+[126/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/14uz/Debugger.o
+[127/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/779w/Enum.o
+[128/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/779w/GC.o
+[129/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/779w/Type.o
+[130/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/aij8/il2cpp-virtual-remap.o
+[131/509    2s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/housing-dotsruntimebuildconfiguration/tba6/BufferedCallbacks.o
+[132/509    3s] C_WebGL_wasm artifacts/lib_unity_entities/housing-dotsruntimebuildconfiguration/zby3/lz4.o
+[133/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/aij8/il2cpp-api.o
+[134/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/779w/Environment.o
+[135/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/LastError.o
+[136/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/DebugMetadata.o
+[137/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/czx7/pch-cpp.o
+[138/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/Exception.o
+[139/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/String.o
+[140/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/Type.o
+[141/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/PlatformInvoke.o
+[142/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/Runtime.o
+[143/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/TypeUniverse.o
+[144/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/StackTrace.o
+[145/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/x1jt/ConsoleExtension.o
+[146/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/x1jt/Initialize.o
+[147/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/44c1/Reflection.o
+[148/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/x1jt/StackTrace.o
+[149/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/x1jt/Locale.o
+[150/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/x1jt/TimeZoneInfo.o
+[151/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/ak74/SocketBridge.o
+[152/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Error.o
+[153/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/Assert.o
+[154/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/COM.o
+[155/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/CpuInfo.o
+[156/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/CrashHelpers.o
+[157/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/CrashHelpers.o
+[158/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Event.o
+[159/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/ConditionVariable.o
+[160/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/Environment.o
+[161/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/Initialize.o
+[162/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/MarshalStringAlloc.o
+[163/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/Debug.o
+[164/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/File.o
+[165/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/SocketBridge.o
+[166/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/Handle.o
+[167/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/SocketImpl.o
+[168/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/SystemCertificates.o
+[169/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/Process.o
+[170/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/TimeZoneInfo.o
+[171/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Image.o
+[172/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/Automation.o
+[173/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/Debug.o
+[174/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/MemoryMappedFile.o
+[175/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/File.o
+[176/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/9wur/WindowsRuntime.o
+[177/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/Lifecycle.o
+[178/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/Initialize.o
+[179/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/Process.o
+[180/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/LibraryLoader.o
+[181/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/Environment.o
+[182/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/TimeZoneInfo.o
+[183/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/jjld/StackTrace.o
+[184/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/evib/Image.o
+[185/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/evib/Process.o
+[186/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/evib/SystemCertificates.o
+[187/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/ConditionVariableImpl.o
+[188/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Messages.o
+[189/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/CpuInfo.o
+[190/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/CrashHelpers.o
+[191/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Cryptography.o
+[192/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Mutex.o
+[193/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Path.o
+[194/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Directory.o
+[195/509   16s] C_WebGL_wasm artifacts/bgfx/housing-dotsruntimebuildconfiguration/mmih/amalgamated.o
+[196/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Encoding.o
+[197/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Console.o
+[198/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/EventImpl.o
+[199/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/FileSystemWatcher.o
+[200/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Image.o
+[201/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/LastError.o
+[202/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Environment.o
+[203/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Error.o
+[204/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/MemoryMappedFile.o
+[205/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/MarshalAlloc.o
+[206/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Memory.o
+[207/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/MutexImpl.o
+[208/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/NativeMethods.o
+[209/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Locale.o
+[210/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/LibraryLoader.o
+[211/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/PosixHelpers.o
+[212/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Path.o
+[213/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/PosixWaitObject.o
+[214/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/File.o
+In file included from C:/Users/81804/Documents/Unity/HoloHousing/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp_a51d/libil2cpp/os/Posix/File.cpp:28:
+C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Stevedore\emscripten-win\system\include\libc\sys\errno.h:1:2: warning: redirecting incorrect #include <sys/errno.h> to <errno.h> [-W#warnings]
+#warning redirecting incorrect #include <sys/errno.h> to <errno.h>
+ ^
+1 warning generated.
+[215/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/SemaphoreImpl.o
+[216/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Process.o
+[217/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/SocketImpl.o
+[218/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/SystemCertificates.o
+[219/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/StackTrace.o
+[220/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/ThreadImpl.o
+[221/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/TimeZone.o
+[222/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/ReaderWriterLock.o
+[223/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/1lz9/Time.o
+[224/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Socket.o
+[225/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/5ktd/ThreadImpl.o
+[226/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Assert.o
+[227/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/COM.o
+[228/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/ConditionVariableImpl.o
+[229/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Semaphore.o
+[230/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Console.o
+[231/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/CpuInfo.o
+[232/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/Thread.o
+[233/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/hdg8/StackTrace.o
+[234/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/CrashHelpers.o
+[235/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Debug.o
+[236/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Cryptography.o
+[237/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Directory.o
+[238/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/DllMain.o
+[239/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Encoding.o
+[240/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Environment.o
+[241/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/EventImpl.o
+[242/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/File.o
+[243/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/FileSystemWatcher.o
+[244/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Handle.o
+[245/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Image.o
+[246/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Initialize.o
+[247/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/LastError.o
+[248/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/LibraryLoader.o
+[249/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Locale.o
+[250/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/MarshalAlloc.o
+[251/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/MarshalStringAlloc.o
+[252/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/MemoryMappedFile.o
+[253/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Memory.o
+[254/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/MutexImpl.o
+[255/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/NativeMethods.o
+[256/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Path.o
+[257/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/SemaphoreImpl.o
+[258/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/SocketImpl.o
+[259/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/StackTrace.o
+[260/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/SynchronizationContext.o
+[261/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/SystemCertificates.o
+[262/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/ThreadImpl.o
+[263/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Time.o
+[264/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/TimeZone.o
+[265/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/Process.o
+[266/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/WindowsHelpers.o
+[267/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/BrokeredFileSystem.o
+[268/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/dp5o/WindowsRuntime.o
+[269/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/Cryptography.o
+[270/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/Environment.o
+[271/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/File.o
+[272/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/Locale.o
+[273/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/Initialize.o
+[274/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/MarshalAlloc.o
+[275/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/Process.o
+[276/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/Win32ApiWinRTEmulation.o
+[277/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/cikd/Win32ApiSharedEmulation.o
+[278/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/grj7/Win32ApiWindowsGamesEmulation.o
+[279/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/COM.o
+[280/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/ConditionVariable.o
+[281/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/CpuInfo.o
+[282/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Cryptography.o
+[283/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Debug.o
+[284/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Allocator.o
+[285/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Directory.o
+[286/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Error.o
+[287/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/CultureInfo.o
+[288/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Event.o
+[289/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Console.o
+[290/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/File.o
+[291/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Handle.o
+[292/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/LibraryLoader.o
+[293/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Locale.o
+[294/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/MemoryMappedFile.o
+[295/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Memory.o
+[296/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Messages.o
+[297/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Environment.o
+[298/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Mutex.o
+[299/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/NativeMethods.o
+[300/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Path.o
+[301/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Process.o
+[302/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Thread.o
+[303/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/SystemCertificates.o
+[304/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Semaphore.o
+[305/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Socket.o
+[306/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/ThreadLocalValue.o
+[307/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/TimeZone.o
+[308/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/Time.o
+[309/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/i92u/TimeZoneInfo.o
+[310/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/ConsoleTests.o
+[311/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/COMTests.o
+[312/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/ConditionVariableTests.o
+[313/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/CpuInfoTests.o
+[314/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/CryptographyTests.o
+[315/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/DebugTests.o
+[316/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/DirectoryTests.o
+[317/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/EnvironmentTests.o
+[318/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/ErrorTests.o
+[319/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/FileTests.o
+[320/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/EventTests.o
+[321/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/LibraryLoaderTests.o
+[322/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/LocaleTests.o
+[323/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/MemoryMappedFileTests.o
+[324/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/MainTestRunner.o
+[325/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/MessagesTests.o
+[326/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/MemoryTests.o
+[327/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/MutexTests.o
+[328/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/NativeMethodsTests.o
+[329/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/PathTests.o
+[330/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/ProcessTests.o
+[331/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/SocketTests.o
+[332/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/SemaphoreTests.o
+[333/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/ThreadLocalValueTests.o
+[334/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/ThreadTests.o
+[335/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/TimeTests.o
+[336/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/gqis/TimeZoneInfoTests.o
+[337/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/l66f/NullGC.o
+[338/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/l66f/WriteBarrierValidation.o
+[339/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/l66f/WriteBarrier.o
+[340/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/l66f/BoehmGC.o
+[341/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/Il2CppHStringReference.o
+[342/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/Logging.o
+[343/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/DirectoryUtils.o
+[344/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/MarshalingUtils.o
+[345/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/l66f/GarbageCollector.o
+[346/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/l66f/GCHandle.o
+[347/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/Environment.o
+[348/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/Memory.o
+[349/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/MemoryMappedFile.o
+[350/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/Exception.o
+[351/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/olxa/BlobReader.o
+[352/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/MemoryPool.o
+[353/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/PathUtils.o
+[354/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/olxa/Debugger.o
+[355/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/Output.o
+[356/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/Runtime.o
+[357/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/olxa/NativeDelegateMethodCache.o
+[358/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/mono-structs.o
+[359/509    0s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/olxa/VmStringUtils.o
+[360/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/kw61/StringUtils.o
+[361/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/l2ih/Math.o
+[362/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/uan6/il2cpp-codegen-common.o
+[363/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[364/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/housing-dotsruntimebuildconfiguration/9h1a/SendMessageCallbackHandler.o
+[365/509    0s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/housing-dotsruntimebuildconfiguration/64m8/dummy.o
+[366/509    0s] C_WebGL_wasm artifacts/lib_unity_tiny_web/housing-dotsruntimebuildconfiguration/9h1a/HTMLWrapper.o
+[368/509    0s] Csc artifacts/Unity.LowLevel.dll/HostDotNet/Unity.LowLevel.dll (+2 others)
+[369/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/olxa/NativeSymbol.o
+[370/509    0s] CopyTool artifacts/TypeRegGen.exe/Release/Unity.Entities.BuildUtils.pdb
+[371/509    0s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/housing-dotsruntimebuildconfiguration/oslh/Time.o
+[372/509    1s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/uan6/il2cpp-codegen-il2cpp.o
+[373/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/ncem/Interlocked.o
+[374/509    2s] C_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/uan6/il2cpp-codegen-tiny.o
+[375/509    0s] Csc artifacts/Unity.LowLevel.dll/housing-dotsruntimebuildconfiguration/Unity.LowLevel.dll (+2 others)
+[376/509    0s] Csc artifacts/Unity.Tiny.Burst.dll/HostDotNet/Unity.Tiny.Burst.dll (+2 others)
+[377/509    0s] Csc artifacts/Unity.Tiny.Thread.Native.dll/HostDotNet/Unity.Tiny.Thread.Native.dll (+2 others)
+[378/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.LowLevel.dll
+[379/509    0s] CopyTool artifacts/TypeRegGen.exe/Release/Unity.Entities.BuildUtils.dll
+[380/509    0s] Patch artifacts/UnsafeUtility.dll/HostDotNet/patched/UnsafeUtility.dll (+pdb)
+[UnsafeUtilityPatcher] Patching assembly : artifacts/UnsafeUtility.dll/HostDotNet/UnsafeUtility.dll to : artifacts/UnsafeUtility.dll/HostDotNet/patched/UnsafeUtility.dll
+[381/509    0s] Lib_WebGL_wasm artifacts/boehm-gc/housing-dotsruntimebuildconfiguration/boehm-gc.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[382/509    0s] Patch artifacts/UnsafeUtility.dll/housing-dotsruntimebuildconfiguration/patched/UnsafeUtility.dll (+pdb)
+[UnsafeUtilityPatcher] Patching assembly : artifacts/UnsafeUtility.dll/housing-dotsruntimebuildconfiguration/UnsafeUtility.dll to : artifacts/UnsafeUtility.dll/housing-dotsruntimebuildconfiguration/patched/UnsafeUtility.dll
+[383/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Tiny.Burst.dll
+[384/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Tiny.Thread.Native.dll
+[385/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/UnsafeUtility.dll
+[386/509    0s] Lib_WebGL_wasm artifacts/lib_unity_lowlevel/housing-dotsruntimebuildconfiguration/lib_unity_lowlevel.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[387/509    0s] Csc artifacts/Unity.Tiny.Burst.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Burst.dll (+2 others)
+[388/509    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/z6vx/xxhash.o
+In file included from C:/Users/81804/Documents/Unity/HoloHousing/Library/DotsRuntimeBuild/artifacts/Stevedore/il2cpp_a51d/external/xxHash/xxhash.c:1021:
+C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Stevedore\il2cpp_a51d\external\xxHash\xxh3.h:550:13: warning: loop not unrolled: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+static void XXH3_accumulate(U64* acc, const void* restrict data, const U32* restrict key, size_t nbStripes)
+            ^
+1 warning generated.
+[389/509    0s] Csc artifacts/Unity.Tiny.IO.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.IO.dll (+2 others)
+[390/509    0s] Csc artifacts/Unity.Tiny.IO.dll/HostDotNet/Unity.Tiny.IO.dll (+2 others)
+[391/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Tiny.IO.dll
+[392/509    1s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/housing-dotsruntimebuildconfiguration/tpyy/HTMLWrapper.o
+[393/509    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_burst/housing-dotsruntimebuildconfiguration/lib_unity_tiny_burst.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[394/509    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_io/housing-dotsruntimebuildconfiguration/lib_unity_tiny_io.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[395/509    1s] Csc artifacts/TypeRegGen.exe/Release/TypeRegGen.exe (+2 others)
+[396/509    0s] Csc artifacts/Unity.Burst.dll/housing-dotsruntimebuildconfiguration/Unity.Burst.dll (+2 others)
+[397/509    1s] Lib_WebGL_wasm artifacts/libil2cpptiny/housing-dotsruntimebuildconfiguration/libil2cpptiny.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[398/509    0s] Csc artifacts/Unity.Burst.dll/HostDotNet/Unity.Burst.dll (+2 others)
+[399/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Burst.dll
+[400/509    0s] Csc artifacts/Unity.ZeroJobs.dll/housing-dotsruntimebuildconfiguration/Unity.ZeroJobs.dll (+2 others)
+[401/509    0s] Lib_WebGL_wasm artifacts/lib_unity_zerojobs/housing-dotsruntimebuildconfiguration/lib_unity_zerojobs.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[402/509    0s] Csc artifacts/Unity.Platforms.Common.dll/housing-dotsruntimebuildconfiguration/Unity.Platforms.Common.dll (+2 others)
+[403/509    0s] Csc artifacts/URLOpener.dll/housing-dotsruntimebuildconfiguration/URLOpener.dll (+2 others)
+[404/509    0s] Csc artifacts/Unity.ZeroJobs.dll/HostDotNet/Unity.ZeroJobs.dll (+2 others)
+[405/509    0s] Csc artifacts/Unity.Properties.dll/housing-dotsruntimebuildconfiguration/Unity.Properties.dll (+2 others)
+[406/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.ZeroJobs.dll
+[407/509    0s] Lib_WebGL_wasm artifacts/lib_unity_platforms_common/housing-dotsruntimebuildconfiguration/lib_unity_platforms_common.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[408/509    0s] Lib_WebGL_wasm artifacts/lib_unity_entities/housing-dotsruntimebuildconfiguration/lib_unity_entities.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[409/509    1s] Lib_WebGL_wasm artifacts/lib_urlopener/housing-dotsruntimebuildconfiguration/lib_urlopener.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[410/509    0s] Csc artifacts/Unity.Platforms.RunLoop.dll/housing-dotsruntimebuildconfiguration/Unity.Platforms.RunLoop.dll (+2 others)
+[411/509    1s] Csc artifacts/Unity.Properties.dll/HostDotNet/Unity.Properties.dll (+2 others)
+[412/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Properties.dll
+[413/509    1s] Lib_WebGL_wasm artifacts/lib_unity_platforms_runloop/housing-dotsruntimebuildconfiguration/lib_unity_platforms_runloop.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[414/509    1s] Csc artifacts/Unity.Properties.Reflection.dll/housing-dotsruntimebuildconfiguration/Unity.Properties.Reflection.dll (+2 others)
+[415/509    1s] Lib_WebGL_wasm artifacts/lib_unity_tiny_core/housing-dotsruntimebuildconfiguration/lib_unity_tiny_core.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[416/509    1s] Csc artifacts/Unity.Properties.Reflection.dll/HostDotNet/Unity.Properties.Reflection.dll (+2 others)
+[417/509    1s] Csc artifacts/Unity.Properties.CodeGen.dll/HostDotNet/Unity.Properties.CodeGen.dll (+2 others)
+[418/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Properties.Reflection.dll
+[419/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Properties.CodeGen.dll
+[420/509    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_web/housing-dotsruntimebuildconfiguration/lib_unity_tiny_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[421/509    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/housing-dotsruntimebuildconfiguration/lib_unity_tiny_image2d_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[422/509    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_input_web/housing-dotsruntimebuildconfiguration/lib_unity_tiny_input_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[423/509    0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/housing-dotsruntimebuildconfiguration/lib_unity_tiny_rendering_native.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[424/509    4s] Csc artifacts/Unity.Mathematics.dll/housing-dotsruntimebuildconfiguration/Unity.Mathematics.dll (+2 others)
+[425/509    4s] Csc artifacts/Unity.Mathematics.dll/HostDotNet/Unity.Mathematics.dll (+2 others)
+[426/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Mathematics.dll
+[427/509    1s] Csc artifacts/Unity.Collections.dll/housing-dotsruntimebuildconfiguration/Unity.Collections.dll (+2 others)
+[428/509    0s] Csc artifacts/Unity.Jobs.dll/housing-dotsruntimebuildconfiguration/Unity.Jobs.dll (+2 others)
+[429/509    0s] Csc artifacts/Unity.Mathematics.Extensions.dll/housing-dotsruntimebuildconfiguration/Unity.Mathematics.Extensions.dll (+2 others)
+[430/509    0s] Csc artifacts/Unity.Serialization.dll/housing-dotsruntimebuildconfiguration/Unity.Serialization.dll (+2 others)
+[431/509    1s] Csc artifacts/Unity.Collections.dll/HostDotNet/Unity.Collections.dll (+2 others)
+[432/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Collections.dll
+[433/509    0s] Csc artifacts/Unity.Jobs.dll/HostDotNet/Unity.Jobs.dll (+2 others)
+[434/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Jobs.dll
+[435/509    0s] Csc artifacts/Unity.Mathematics.Extensions.dll/HostDotNet/Unity.Mathematics.Extensions.dll (+2 others)
+[436/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Mathematics.Extensions.dll
+[437/509    0s] Csc artifacts/Unity.Serialization.dll/HostDotNet/Unity.Serialization.dll (+2 others)
+[438/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Serialization.dll
+[439/509    1s] Csc artifacts/Unity.Entities.dll/housing-dotsruntimebuildconfiguration/Unity.Entities.dll (+2 others)
+[440/509    0s] Csc artifacts/Unity.Entities.Runtime.dll/housing-dotsruntimebuildconfiguration/Unity.Entities.Runtime.dll (+2 others)
+[441/509    0s] Csc artifacts/Housing.Component.dll/housing-dotsruntimebuildconfiguration/Housing.Component.dll (+2 others)
+[442/509    0s] Csc artifacts/Unity.Tiny.Core.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Core.dll (+2 others)
+[443/509    0s] Csc artifacts/Unity.Transforms.dll/housing-dotsruntimebuildconfiguration/Unity.Transforms.dll (+2 others)
+[444/509    0s] Csc artifacts/Unity.Tiny.Image2D.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Image2D.dll (+2 others)
+[445/509    0s] Csc artifacts/Unity.Tiny.Web.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Web.dll (+2 others)
+[446/509    0s] Csc artifacts/Unity.Tiny.Input.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Input.dll (+2 others)
+[447/509    0s] Csc artifacts/Unity.Scenes.dll/housing-dotsruntimebuildconfiguration/Unity.Scenes.dll (+2 others)
+[448/509    0s] Csc artifacts/Unity.Tiny.Image2D.Web.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Image2D.Web.dll (+2 others)
+[449/509    0s] Csc artifacts/Unity.Tiny.Input.Web.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Input.Web.dll (+2 others)
+[450/509    0s] Csc artifacts/Unity.Tiny.UnityInstance.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.UnityInstance.dll (+2 others)
+[451/509    0s] Csc artifacts/Unity.Tiny.Rendering.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Rendering.dll (+2 others)
+[452/509    0s] Csc artifacts/Unity.Runtime.EntryPoint.exe/housing-dotsruntimebuildconfiguration/Unity.Runtime.EntryPoint.exe (+2 others)
+[453/509    2s] Csc artifacts/Unity.Entities.dll/HostDotNet/Unity.Entities.dll (+2 others)
+[454/509    0s] Csc artifacts/Unity.Tiny.2D.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.2D.dll (+2 others)
+[455/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Entities.dll
+[456/509    0s] Csc artifacts/Unity.Tiny.Rendering.Native.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.Rendering.Native.dll (+2 others)
+[457/509    0s] Csc artifacts/Unity.Entities.CodeGen.dll/HostDotNet/Unity.Entities.CodeGen.dll (+2 others)
+[458/509    0s] CopyTool artifacts/ILPostProcessorRunner.exe/HostDotNet/Unity.Entities.CodeGen.dll
+[459/509    0s] Csc artifacts/Unity.Tiny.2D.Native.dll/housing-dotsruntimebuildconfiguration/Unity.Tiny.2D.Native.dll (+2 others)
+[460/509    0s] Csc artifacts/Housing.dll/housing-dotsruntimebuildconfiguration/Housing.dll (+2 others)
+[461/509    0s] Csc artifacts/ILPostProcessorRunner.exe/HostDotNet/ILPostProcessorRunner.exe (+2 others)
+[462/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/netstandard.dll
+[463/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Collections.LowLevel.ILSupport.dll
+[464/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Burst.dll (+pdb)
+[465/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.IO.dll (+pdb)
+[466/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Burst.dll (+pdb)
+[467/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/mscorlib.dll
+[468/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/UnsafeUtility.dll (+pdb)
+[469/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.LowLevel.dll (+pdb)
+[470/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.ZeroJobs.dll (+pdb)
+[471/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/URLOpener.dll (+pdb)
+[472/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Platforms.RunLoop.dll (+pdb)
+[473/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Mathematics.dll (+pdb)
+[474/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Properties.Reflection.dll (+pdb)
+[475/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Platforms.Common.dll (+pdb)
+[476/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Collections.dll (+pdb)
+[477/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Properties.dll (+pdb)
+[478/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Mathematics.Extensions.dll (+pdb)
+[479/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Serialization.dll (+pdb)
+[480/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Jobs.dll (+pdb)
+[481/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Housing.Component.dll (+pdb)
+[482/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Entities.Runtime.dll (+pdb)
+[483/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Core.dll (+pdb)
+[484/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Transforms.dll (+pdb)
+[485/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Input.dll (+pdb)
+[486/509    2s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Scenes.dll (+pdb)
+[487/509    2s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Web.dll (+pdb)
+[488/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Image2D.dll (+pdb)
+[489/509    2s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Entities.dll (+pdb)
+[490/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.UnityInstance.dll (+pdb)
+[491/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Input.Web.dll (+pdb)
+[492/509    0s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Runtime.EntryPoint.exe (+pdb)
+[493/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Image2D.Web.dll (+pdb)
+[494/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.2D.dll (+pdb)
+[495/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Housing.dll (+pdb)
+[496/509    1s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.2D.Native.dll (+pdb)
+[497/509    3s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Rendering.dll (+pdb)
+[498/509    3s] ILPostProcessorRunner artifacts/Housing/housing-dotsruntimebuildconfiguration/post_ilprocessing/Unity.Tiny.Rendering.Native.dll (+pdb)
+[499/509    1s] TypeRegGen artifacts/Housing/housing-dotsruntimebuildconfiguration/post_typereg/Housing.dll (+70 others)
+[BUSY       6s] Burst artifacts/Housing/housing-dotsruntimebuildconfiguration_bursted/Housing.dll (+70 others)
+[BUSY      16s] Burst artifacts/Housing/housing-dotsruntimebuildconfiguration_bursted/Housing.dll (+70 others)
+[500/509   16s] Burst artifacts/Housing/housing-dotsruntimebuildconfiguration_bursted/Housing.dll (+70 others)
+Compiled 1 library, containing 209 methods, in 15926ms using 10 threads: C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Housing\housing-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3.wasm,C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Housing\housing-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_0.wasm,C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Housing\housing-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_2.wasm,C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Housing\housing-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_1.wasm,C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\Housing\housing-dotsruntimebuildconfiguration_bursted\bclobj\lib_burst_generated_part_3_merged.wasm
+[501/509    4s] UnityLinker artifacts/Housing/housing-dotsruntimebuildconfiguration_stripped/Housing.dll (+70 others)
+[BUSY       6s] Il2Cpp artifacts/Housing/housing-dotsruntimebuildconfiguration_stripped/il2cpp-src
+[502/509    6s] Il2Cpp artifacts/Housing/housing-dotsruntimebuildconfiguration_stripped/il2cpp-src
+[           0s] Destroying Roslyn Shared Compiler Server
+*** Bee requires additional run (99.30 seconds - 0:01:39), 498 items updated, 509 evaluated
+*** buildprogram build success (0.10 seconds), 0 items updated, 13 evaluated
+[       5s] Executed build program. Created build graph with 739 nodes.
+[           0s] Freezing tundra_housing-dotsruntimebuildconfiguration_8ny.dag.json into .dag (Timestamp of .json > .dag)
+[           0s] Delete 13 artifact files that are no longer in use. (like artifacts\Stevedore-ExternalUnpack\artifacts_Stevedore_emscripten-win)
+[ 21/610    0s] WriteResponseFile artifacts/rsp/15513511265352201989.rsp
+[499/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/driver.o
+[500/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods.o
+[501/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods1.o
+[502/610    6s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods3.o
+[503/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods5.o
+[504/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods2.o
+[505/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods7.o
+[506/610    9s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods4.o
+[507/610    9s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/GenericMethods6.o
+[508/610    4s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics11.o
+[509/610    4s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics3.o
+[510/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics10.o
+[511/610    8s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics.o
+[512/610    4s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics4.o
+[513/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics_StaticConstructors.o
+[514/610    6s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics5.o
+[515/610   10s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics1.o
+[516/610    9s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics2.o
+[517/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Housing.Component_StaticConstructors.o
+[518/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Housing.Component.o
+[519/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Housing_StaticConstructors.o
+[520/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics6.o
+[521/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions.o
+[522/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics7.o
+[523/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions1.o
+[524/610    3s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Housing.o
+[525/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions10.o
+[526/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions11.o
+[527/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions2.o
+[528/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics8.o
+[529/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions3.o
+[530/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions5.o
+[531/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions4.o
+[532/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions6.o
+[533/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions7.o
+[534/610    8s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Generics9.o
+[535/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions8.o
+[536/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/ModuleInitializers.o
+[537/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Il2CppGenericComDefinitions9.o
+[538/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/mscorlib_StaticConstructors.o
+[539/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/netstandard.o
+[540/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/StaticConstructors.o
+[541/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/StaticInitialization.o
+[542/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/StringLiterals.o
+[543/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/TinyMethods.o
+[544/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Burst.o
+[545/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Collections.LowLevel.ILSupport.o
+[546/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Collections_StaticConstructors.o
+[547/610    3s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/TinyTypes.o
+[548/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/mscorlib.o
+[549/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Entities.Runtime_StaticConstructors.o
+[550/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Entities.Runtime.o
+[551/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Entities_StaticConstructors.o
+[552/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Jobs.o
+[553/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.LowLevel.o
+[554/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Mathematics.Extensions.o
+[555/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Mathematics_StaticConstructors.o
+[556/610    6s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Entities.o
+[557/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Collections.o
+[558/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Platforms.Common.o
+[559/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Platforms.RunLoop.o
+[560/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Properties.o
+[561/610    6s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Entities1.o
+[562/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Properties.Reflection.o
+[563/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Entities2.o
+[564/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Mathematics.o
+[565/610    7s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Entities3.o
+[566/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Runtime.EntryPoint_StaticConstructors.o
+[567/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Runtime.EntryPoint.o
+[568/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Serialization.o
+[569/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Scenes_StaticConstructors.o
+[570/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.2D.Native_StaticConstructors.o
+[571/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.2D.o
+[572/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.2D_StaticConstructors.o
+[573/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Burst.o
+[574/610    3s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Scenes.o
+[575/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Core_StaticConstructors.o
+[576/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Core.o
+[577/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Image2D.Web_StaticConstructors.o
+[578/610    3s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.2D.Native.o
+[579/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Image2D_StaticConstructors.o
+[580/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Image2D.o
+[581/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Image2D.Web.o
+[582/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Input.Web.o
+[583/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Input.o
+[584/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Input.Web_StaticConstructors.o
+[585/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Input_StaticConstructors.o
+[586/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.IO.o
+[587/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering.Native_StaticConstructors.o
+[588/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering_StaticConstructors.o
+[589/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.UnityInstance.o
+[590/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.UnityInstance_StaticConstructors.o
+[591/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering.o
+[592/610    4s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering.Native2.o
+[593/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering.Native.o
+[594/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Web_StaticConstructors.o
+[595/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Web.o
+[596/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Transforms_StaticConstructors.o
+[597/610    6s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering1.o
+[598/610    2s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.ZeroJobs.o
+[599/610    8s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering.Native1.o
+[600/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.ZeroJobs_StaticConstructors.o
+[601/610    6s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Tiny.Rendering2.o
+[602/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/UnsafeUtility.o
+[603/610    1s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/URLOpener.o
+[604/610    5s] C_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/k2s4/Unity.Transforms.o
+[BUSY       6s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      26s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      36s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      46s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      56s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      66s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      76s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      87s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY      97s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY     107s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[BUSY     117s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+[605/610   123s] Link_WebGL_wasm artifacts/Housing/housing-dotsruntimebuildconfiguration/Housing.html (+wasm,js)
+emcc:WARNING: --llvm-lto ignored when using llvm backend
+cache:INFO: generating system library: libfetch.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libfetch.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libgl-webgl2.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libgl-webgl2.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libcompiler_rt.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libcompiler_rt.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc-wasm.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc-wasm.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc++-noexcept.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc++-noexcept.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc++abi-noexcept.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc++abi-noexcept.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libemmalloc-noerrno-64bit.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libemmalloc-noerrno-64bit.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libpthread_stub.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libpthread_stub.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libc_rt_wasm.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libc_rt_wasm.a" for subsequent builds)
+cache:INFO:  - ok
+cache:INFO: generating system library: libsockets.a... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\libsockets.a" for subsequent builds)
+cache:INFO:  - ok
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libfetch.aemscripten_fetch.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libgl-webgl2.awebgl1.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libgl-webgl2.awebgl2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__errno_location.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afcntl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asyscall_ret.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afreelocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ac_locale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alibc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alocale_map.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anewlocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asetlocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__mo_lookup.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acosh.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aexpm1.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amodf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asinh.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atanh.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__expo2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ammap.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amunmap.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apoll.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.achmod.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aprocfdname.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afstat.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alstat.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amkdir.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astat.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afclose.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afeof.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aferror.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afflush.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afseek.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aftell.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aofl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aremove.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arename.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asnprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astderr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astdout.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aemscripten_pthread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcrtomb.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awctomb.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afrexp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avfprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisspace.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ashgetc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ainternal.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambrtowc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambsinit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aintscan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acopysignl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ascalbnl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afabs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afloatscan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avfscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avsnprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aofl_add.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__fdopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__fmodeflags.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_close.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_read.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_seek.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_write.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__stdio_exit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__toread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__uflow.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aatoi.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.absearch.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrtod.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrtol.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amemchr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.amemcmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrchr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrchrnul.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrcmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astpcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrdup.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__lctrans.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrerror.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrerror_r.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrlcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrncmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astpncpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrncpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrspn.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aaccess.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.achdir.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aclose.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afsync.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aftruncate.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.agetcwd.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisatty.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alseek.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apipe.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.apwrite.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aunlink.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awrite.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.agetpagesize.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__environ.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.agetenv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asched_yield.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aextras.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awasi-helpers.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__cos.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afloor.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2_large.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__sin.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.acos.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asin.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__tan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.atan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asqrt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aacos.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aasin.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aatan.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aatan2.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aexp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.alog.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.apow.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aalgorithm.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.ahash.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aexception.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemcpy.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aios.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisxdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__string_read.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avsscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asscanf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acatopen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acatgets.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acatclose.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrcoll.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrxfrm.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcscmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcscoll.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcslen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsxfrm.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_b_loc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_tolower_loc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_toupper_loc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aislower.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atoupper.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisupper.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atolower.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcschr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswspace.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswprint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswcntrl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswalpha.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atowctrans.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswupper.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswlower.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswpunct.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswxdigit.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aisblank.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aiswblank.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.auselocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avasprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.abtowc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awctob.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsrtombs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsnrtombs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambsrtowcs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambsnrtowcs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambtowc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__ctype_get_mb_cur_max.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ambrlen.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alocaleconv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemset.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.astrtol_l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.alocale.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.amemory.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.acondition_variable_destructor.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.acondition_variable.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.amutex.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.amutex_destructor.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.anew.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemmove.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemchr.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awmemcmp.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcstol.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcstod.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afwide.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.awcsspn.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afputwc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avfwprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.avswprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aswprintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.acharconv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.astring.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.astdexcept.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.asystem_error.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.afuture.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.athread.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.avector.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.aabort_message.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_guard.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_default_handlers.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_handlers.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_virtual.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.astdlib_exception.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.astdlib_stdexcept.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.astdlib_typeinfo.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.aprivate_typeinfo.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++abi-noexcept.acxa_noexception.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libemmalloc-noerrno-64bit.aemmalloc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libemmalloc-noerrno-64bit.asbrk.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libpthread_stub.alibrary_pthread_stub.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asocket.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.abind.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.aconnect.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.alisten.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.aaccept.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.agetsockname.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asend.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.arecv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asendto.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.arecvfrom.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.agetsockopt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libsockets.asetsockopt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ahtons.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ahtonl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.antohs.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.aint128_builtins.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afenv.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afesetround.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afmaf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anextafter.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acopysign.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ailogb.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afma.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afrexpl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anextafterl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ailogbl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afmal.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.asqrtf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asqrtl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acbrtf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acbrt.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acbrtl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.alogf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.alogl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alog2l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alog10l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.ascalbnf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aexpf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aexpl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aexp2l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__sindf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__cosdf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2f.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asinf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__sinl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__rem_pio2l.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.a__cosl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.asinl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.acosf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.acosl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afabsf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.apowf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.apowl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aceilf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aceil.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.aceill.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atruncf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atrunc.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.atruncl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.arintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anearbyintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anearbyint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.anearbyintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.aroundl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.afloorf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc-wasm.afloorl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.acopysignf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alroundf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alround.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alroundl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allroundf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allround.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allroundl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alrintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alrint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.alrintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allrintf.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allrint.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: Linking two modules of different target triples: C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc.allrintl.o' is 'wasm32-unknown-emscripten' whereas 'ld-temp.o' is 'wasm32-unknown-unknown-wasm'
+wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11char_traitsIcEEE7seekposENS_4fposI11__mbstate_tEEj
+>>> defined as () -> void in C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.a(ios.o)
+>>> defined as (i32, i32, i32, i32) -> void in lto.tmp
+wasm-ld: warning: function signature mismatch: _ZNSt3__215basic_streambufIcNS_11char_traitsIcEEE7seekoffExNS_8ios_base7seekdirEj
+>>> defined as () -> void in C:\\Users\\81804\\Documents\\Unity\\HoloHousing\\Library\\DotsRuntimeBuild\\artifacts\\emscripten-cache-1.39.17\\wasm-lto\\libc++-noexcept.a(ios.o)
+>>> defined as (i32, i32, i64, i32, i32) -> void in lto.tmp
+cache:INFO: generating system asset: generated_struct_info.json... (this will be cached in "C:\Users\81804\Documents\Unity\HoloHousing\Library\DotsRuntimeBuild\artifacts\emscripten-cache-1.39.17\wasm-lto\generated_struct_info.json" for subsequent builds)
+cache:INFO:  - ok
+[606/610    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Housing.js
+[607/610    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Housing.wasm
+[608/610    0s] CopyTool ../../Builds/housing-dotsruntimebuildconfiguration/Housing.html
+*** Bee build success (172.47 seconds - 0:02:52), 111 items updated, 610 evaluated
