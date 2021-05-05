@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 2134648a5da1dd441bd2bb7456b443c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8027387480765376374
+    second: ru-walk 2_0
+  - first:
+      213: 8400900285671425823
+    second: ru-walk 2_1
+  - first:
+      213: 3593403248560893767
+    second: ru-walk 2_2
+  - first:
+      213: -4016012547695997764
+    second: ru-walk 2_3
+  - first:
+      213: 3345743514596934109
+    second: ru-walk 2_4
+  - first:
+      213: 6275749444942696724
+    second: ru-walk 2_5
+  - first:
+      213: 4845646099069641139
+    second: ru-walk 2_6
+  - first:
+      213: -3384398399986792446
+    second: ru-walk 2_7
+  - first:
+      213: -2709662149433981710
+    second: ru-walk 2_8
+  - first:
+      213: -70767723857482005
+    second: ru-walk 2_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ru-walk 2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 402
+        height: 525
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88df8efd9df89090800000000000000
+      internalID: -8027387480765376374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f174ce8cc4ef59470800000000000000
+      internalID: 8400900285671425823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe43547355ed130800000000000000
+      internalID: 3593403248560893767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_3
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc81199dd14448c0800000000000000
+      internalID: -4016012547695997764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_4
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10e1100087e6e20800000000000000
+      internalID: 3345743514596934109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_5
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3
+        width: 402
+        height: 525
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4111a2daed0f71750800000000000000
+      internalID: 6275749444942696724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_6
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ad4a24713f3340800000000000000
+      internalID: 4845646099069641139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_7
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208036626933801d0800000000000000
+      internalID: -3384398399986792446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_8
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48aa9a1a8556ad0800000000000000
+      internalID: -2709662149433981710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-walk 2_9
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 4
+        width: 402
+        height: 524
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee69ed4125940ff0800000000000000
+      internalID: -70767723857482005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0748fe7f0a5b8c246a73c6025ee83e2a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

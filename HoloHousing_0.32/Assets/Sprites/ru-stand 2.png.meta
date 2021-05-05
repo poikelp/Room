@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 7c7868d5fd164d84f99c50746826c7bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8782139300197331476
+    second: ru-stand 2_0
+  - first:
+      213: 8185140714620229812
+    second: ru-stand 2_1
+  - first:
+      213: -8613805164503911320
+    second: ru-stand 2_2
+  - first:
+      213: -7457777409241544548
+    second: ru-stand 2_3
+  - first:
+      213: 2013621333526761846
+    second: ru-stand 2_4
+  - first:
+      213: -8122786332736385301
+    second: ru-stand 2_5
+  - first:
+      213: 4975209903498050555
+    second: ru-stand 2_6
+  - first:
+      213: -3511441006902988334
+    second: ru-stand 2_7
+  - first:
+      213: 5764151910146941637
+    second: ru-stand 2_8
+  - first:
+      213: -3901350965010137405
+    second: ru-stand 2_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ru-stand 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 402
+        height: 525
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced8db316d29f1680800000000000000
+      internalID: -8782139300197331476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5
+        width: 402
+        height: 523
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8968bfc16779170800000000000000
+      internalID: 8185140714620229812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 7
+        width: 402
+        height: 521
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b15d37dd957880800000000000000
+      internalID: -8613805164503911320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_3
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 9
+        width: 402
+        height: 519
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98893495f6a08890800000000000000
+      internalID: -7457777409241544548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_4
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 11
+        width: 402
+        height: 517
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671d2092fe1d1fb10800000000000000
+      internalID: 2013621333526761846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_5
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 13
+        width: 402
+        height: 515
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee89d2edd0164f80800000000000000
+      internalID: -8122786332736385301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_6
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 12
+        width: 402
+        height: 516
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb1052c0f7b0540800000000000000
+      internalID: 4975209903498050555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_7
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 10
+        width: 402
+        height: 518
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1bec5320bd44fc0800000000000000
+      internalID: -3511441006902988334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_8
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 8
+        width: 402
+        height: 520
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a2bb5f916eff40800000000000000
+      internalID: 5764151910146941637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ru-stand 2_9
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 6
+        width: 402
+        height: 522
+      alignment: 9
+      pivot: {x: 0.475, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7172b7fd9bd9c0800000000000000
+      internalID: -3901350965010137405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f789ef208f0eb044fab735f598d8e890
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
